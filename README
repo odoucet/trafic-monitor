@@ -1,0 +1,10 @@
+TRAFIC-Monitor
+
+Inspect iptables counter to check if anything weird is happening. If this is the case, this script adds a rule to log suspect trafic.
+
+This tool is using PHP and based on iptables. Linux only.
+
+** WORK IN PROGRESS **
+
+TODO
+Everything
